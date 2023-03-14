@@ -1,6 +1,6 @@
 # Food Corner
 
-Food Corner is a food ordering Website for a customer. It also provides menu, orders and user management module for admin.
+Food Corner is a food ordering Website for a customer. It provides menu, orders and user management module for admin.
 
 
 # Technologies Used
